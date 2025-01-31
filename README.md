@@ -13,13 +13,13 @@ This is a Flutter app demonstrating the Firebase integration with the following 
 
 ## App Demo Video 🎥
 
-[Watch the localization demo video here]()
+[Watch the localization demo video here](https://github.com/user-attachments/assets/4063940f-ff1b-415f-90ff-6a8e8ca694e3)
 
 ## Screenshots
 
 | Input Form Screen      | User Details Screen      |
 | ---------------------- | ------------------------ |
-| ![Input Form Screen]() | ![User Details Screen]() |
+| ![Input Form Screen](https://github.com/user-attachments/assets/adbf530f-b8c1-45b5-8b59-8eb8ad7be2ca) | ![User Details Screen](https://github.com/user-attachments/assets/096e5c81-a1cf-43a5-8af6-9cc60685c4cc) |
 
 ---
 
